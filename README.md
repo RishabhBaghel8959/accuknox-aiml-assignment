@@ -1,8 +1,5 @@
 # accuknox-aiml-assignment
 
-# accuknox-aiml-assignment
-
-# Accuknox AIML Assignment
 
 This repository contains solutions to three problem statements involving API data handling, data processing & visualization, and CSV data import into a SQLite database using Python.
 
